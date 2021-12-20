@@ -1,0 +1,16 @@
+build-essential
+cmake
+git
+libboost-all-dev
+libtbb-dev
+python3
+python3-pip
+python3-setuptools
+python3-pyparsing
+python3-numpy
+ros-melodic-pcl-ros
+libgoogle-glog-dev
+libgflags-dev
+libeigen3-dev
+ros-melodic-jsk-recognition-msgs
+ros-melodic-jsk-rviz-plugins
