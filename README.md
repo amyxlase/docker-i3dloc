@@ -8,4 +8,4 @@
 # Please note
 
 1) s1_predata runs fine but I cannot fully test the remaining scripts as I do not have a cuda capable graphics card.
-2) The first time the build script is run it takes the image a long tiem to build and the image virtual size is quite large. Need to optimize this.
+2) The first time the build script is run it takes the image a long time to build and the image virtual size is quite large. Need to optimize this.
